@@ -1,1 +1,34 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJzcyB2ZXJzaW9uPSIyLjAiIHhtbG5zOml0dW5lcz0iaHR0cDovL3d3dy5pdHVuZXMuY29tL2R0ZHMvcG9kY2FzdC0xLjAuZHRkIgogICAgIHhtbG5zOmF0b209Imh0dHA6Ly93d3cudzMub3JnLzIwMDUvQXRvbSI+CjxjaGFubmVsPgogIDx0aXRsZT5EYWlseSBCcmV3IEJyaWVmaW5nPC90aXRsZT4KICA8bGluaz5odHRwczovL211c2UuYWkvcG9kY2FzdHMvZmVlZC8xMzc1MzM5MjM4OTg5Mjc2L2M2YzU2M2ZmLTMyZjktNDg3ZC05ZGQ1LWRmNmU1ZTgwMWZjNDwvbGluaz4KICA8ZGVzY3JpcHRpb24+QSAxMC1taW51dGUgZGFpbHkgYnJpZWZpbmcgb24gdGhlIGRheSYjeDI3O3MgTW9ybmluZyBCcmV3IG5ld3NsZXR0ZXJzOiBtYXJrZXRzLCB0ZWNoLCBhbmQgbW9uZXkuIEhvc3RlZCBieSBNYXlhIGFuZCBEZXYuCgpBSSBHZW5lcmF0ZWQ8L2Rlc2NyaXB0aW9uPgogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+CiAgPGl0dW5lczphdXRob3I+UmFtcHJhc2FkIFBhcmFqdWxpPC9pdHVuZXM6YXV0aG9yPgogIDxpdHVuZXM6b3duZXI+CiAgICA8aXR1bmVzOm5hbWU+UmFtcHJhc2FkIFBhcmFqdWxpPC9pdHVuZXM6bmFtZT4KICAgIDxpdHVuZXM6ZW1haWw+cmFtcHJhc2FkLjE5OTEucnBAZ21haWwuY29tPC9pdHVuZXM6ZW1haWw+CiAgPC9pdHVuZXM6b3duZXI+CiAgPGl0dW5lczppbWFnZSBocmVmPSJodHRwczovL211c2UuYWkvcG9kY2FzdHMvbWVkaWEvMTM3NTMzOTIzODk4OTI3Ni9jNmM1NjNmZi0zMmY5LTQ4N2QtOWRkNS1kZjZlNWU4MDFmYzQvY292ZXIucG5nIi8+CiAgPGl0dW5lczpjYXRlZ29yeSB0ZXh0PSJOZXdzIj4KICAgIDxpdHVuZXM6Y2F0ZWdvcnkgdGV4dD0iQnVzaW5lc3MgTmV3cyIvPgogIDwvaXR1bmVzOmNhdGVnb3J5PgogIDxpdHVuZXM6ZXhwbGljaXQ+ZmFsc2U8L2l0dW5lczpleHBsaWNpdD4KICA8YXRvbTpsaW5rIGhyZWY9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9ycGFyYWp1bGkxNy9kYWlseS1icmV3LWJyaWVmaW5nLWZlZWQvbWFpbi9mZWVkLnhtbCIgcmVsPSJzZWxmIiB0eXBlPSJhcHBsaWNhdGlvbi9yc3MreG1sIi8+CiAgPGl0ZW0+CiAgICA8dGl0bGU+RGFpbHkgQnJldyBCcmllZmluZyDigJQgT2N0IDIsIDIwMjY8L3RpdGxlPgogICAgPGRlc2NyaXB0aW9uPkJvbmRzIGhpdCBtdWx0aWRlY2FkZSBoaWdocywgam9icyB3aGlmZiwgQUkmI3gyNztzIDAuM1QgYnVpbGRvdXQsIEdvb2dsZSBpbiBzY2hvb2xzLCBhbmQgcmVudGluZyBiZWF0cyBidXlpbmcuIE1heWEgYW5kIERldiBicmVhayBkb3duIEZyaWRheSYjeDI3O3MgQnJldyBuZXdzbGV0dGVycy4KCkFJIEdlbmVyYXRlZDwvZGVzY3JpcHRpb24+CiAgICA8cHViRGF0ZT5TdW4sIDA0IE9jdCAyMDI2IDAxOjI5OjM5ICswMDAwPC9wdWJEYXRlPgogICAgPGVuY2xvc3VyZSB1cmw9Imh0dHBzOi8vbXVzZS5haS9wb2RjYXN0cy9tZWRpYS8xMzc1MzM5MjM4OTg5Mjc2L2M2YzU2M2ZmLTMyZjktNDg3ZC05ZGQ1LWRmNmU1ZTgwMWZjNC9lcC0yYzVhZTE0ZS05MTMxLTQ3MGQtYWEyNC02NjlmNGFlNjAzZDUubXAzIiBsZW5ndGg9IjMyNjQ5OTciIHR5cGU9ImF1ZGlvL21wZWciLz4KICAgIDxndWlkIGlzUGVybWFMaW5rPSJmYWxzZSI+ZGFpbHktYnJldy1icmllZmluZy1vY3QtMi0yMDI2LTIwMjYtMTAtMDQ8L2d1aWQ+CiAgICA8aXR1bmVzOmR1cmF0aW9uPjQwODwvaXR1bmVzOmR1cmF0aW9uPgogICAgPGl0dW5lczpleHBsaWNpdD5mYWxzZTwvaXR1bmVzOmV4cGxpY2l0PgogIDwvaXRlbT4KPC9jaGFubmVsPgo8L3Jzcz4K
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Daily Brew Briefing</title>
+  <link>https://muse.ai/podcasts/feed/1375339238989276/c6c563ff-32f9-487d-9dd5-df6e5e801fc4</link>
+  <description>A 10-minute daily briefing on the day&#x27;s Morning Brew newsletters: markets, tech, and money. Hosted by Maya and Dev.
+
+AI Generated</description>
+  <language>en</language>
+  <itunes:author>Ramprasad Parajuli</itunes:author>
+  <itunes:owner>
+    <itunes:name>Ramprasad Parajuli</itunes:name>
+    <itunes:email>ramprasad.1991.rp@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://muse.ai/podcasts/media/1375339238989276/c6c563ff-32f9-487d-9dd5-df6e5e801fc4/cover.png"/>
+  <itunes:category text="News">
+    <itunes:category text="Business News"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <atom:link href="https://raw.githubusercontent.com/rparajuli17/daily-brew-briefing-feed/main/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Daily Brew Briefing — Oct 2, 2026</title>
+    <description>Bonds hit multidecade highs, jobs whiff, AI&#x27;s 0.3T buildout, Google in schools, and renting beats buying. Maya and Dev break down Friday&#x27;s Brew newsletters.
+
+AI Generated</description>
+    <pubDate>Sun, 04 Oct 2026 01:29:39 +0000</pubDate>
+    <enclosure url="https://muse.ai/podcasts/media/1375339238989276/c6c563ff-32f9-487d-9dd5-df6e5e801fc4/ep-2c5ae14e-9131-470d-aa24-669f4ae603d5.mp3" length="3264997" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-brew-briefing-oct-2-2026-2026-10-04</guid>
+    <itunes:duration>408</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
